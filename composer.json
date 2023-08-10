@@ -1,0 +1,10 @@
+{
+    "autoload":{
+        "psr-4":{
+            "MVC\\api\\v1":"app"
+        }
+    },
+    "require": {
+        "dcblogdev/pdo-wrapper": "^2.0"
+    }
+}
